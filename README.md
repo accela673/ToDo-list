@@ -1,4 +1,5 @@
 ToDo application on nestjs and angular
+
 To use this programm connect to your database via ".env" file and run the app
 
 
