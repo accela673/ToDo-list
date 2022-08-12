@@ -22,7 +22,11 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-##ToDo application on nestjs and angular
+
+
+ToDo application on nestjs and angular
+To use this programm connect to your database via ".env" file and run the app
+
 
 ## Installation
 
