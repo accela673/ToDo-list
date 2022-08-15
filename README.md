@@ -1,5 +1,7 @@
 ## Description
 
+Preinstalled node js and npm required 
+
 ToDo application on nestjs
 
 To start this programm connect to your postgresql database via ".env" file and run the app
