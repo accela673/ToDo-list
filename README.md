@@ -18,6 +18,21 @@ Todo app can:
 
 5. Delete todo by id in database (DELETE)
 
+
+## Required
+
+```bash
+# nest js
+$ npm i -g @nestjs/cli
+
+# typeorm postgresql
+$ npm install typeorm --save
+$ npm install pg --save
+
+# configuration module
+$ npm i --save @nestjs/config
+```
+
 ## Running the app
 
 ```bash
