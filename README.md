@@ -4,8 +4,6 @@ ToDo application on nestjs
 
 To use this programm connect to your database via ".env" file and run the app
 
->>>>>>> b891197212df001e0e583520f9a8b1bb273ccd37
-
 ## Installation
 
 ```bash
