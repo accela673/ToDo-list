@@ -25,27 +25,27 @@ Todo app can:
 
 ```bash
 # nest js
-$ npm i -g @nestjs/cli
+npm i -g @nestjs/cli
 
 # typeorm postgresql
-$ npm install typeorm --save
-$ npm install pg --save
+npm install typeorm --save
+npm install pg --save
 
 # configuration module
-$ npm i --save @nestjs/config
+npm i --save @nestjs/config
 ```
 
 ## Running the app
 
 ```bash
 # development
-$ npm run start
+npm run start
 
 # watch mode
-$ npm run start:dev
+npm run start:dev
 
 # production mode
-$ npm run start:prod
+npm run start:prod
 ```
 
 
