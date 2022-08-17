@@ -28,8 +28,7 @@ Todo app can:
 npm i -g @nestjs/cli
 
 # typeorm postgresql
-npm install typeorm --save
-npm install pg --save
+npm install --save @nestjs/typeorm typeorm pg
 
 # configuration module
 npm i --save @nestjs/config
