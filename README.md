@@ -32,6 +32,10 @@ npm install --save @nestjs/typeorm typeorm pg
 
 # configuration module
 npm i --save @nestjs/config
+
+# swagger
+npm install --save @nestjs/swagger
+
 ```
 
 ## Running the app
